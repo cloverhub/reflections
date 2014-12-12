@@ -12,3 +12,6 @@ To try experiments or to make different versions like different languages.
 
 How do the diagrams help you visualize the branch structure?
 I can see where a branch took place and all of the commits on that branch and the main branch in one view.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It brings changes from both branches into one so that. The diagram shows that all commits on each branch become merged in the new master branch.
