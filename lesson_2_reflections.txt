@@ -15,3 +15,6 @@ I can see where a branch took place and all of the commits on that branch and th
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It brings changes from both branches into one so that. The diagram shows that all commits on each branch become merged in the new master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's automatic merging works well when lines remain in the same place and multiple team members do not edit the same line. Manual merges are required to resolve conflicts.
