@@ -5,3 +5,10 @@ When collaborating on a project with others.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 To allow control over which changes to pull from remote while working locally.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	• Forks: Automatically clones a branch on GitHub and keeps relation to it's origin. GitHub command only, not a Git command.
+	• Clones: takes existing repository and making one just like it, can be remote to local or local to local.
+	• Branches: allows modifying an existing branch and then bringing back to master branch if desired. Happens on a single repository.
+Forks are used only on GitHub and are better than cloning on GitHub to give credit to the original creator. I'd use clones locally to separate from another repository. I'd use a branch to collaborate with an existing repository or to add experimental features.
+
